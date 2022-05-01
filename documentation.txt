@@ -1,0 +1,8 @@
+Μαρία Χατζηπαύλου 
+
+έχω υλοποιήσει όλες τις εντολές εκτός από  /addVaccinationRecords
+
+τα threads τα έχω υλοποιήσει παρόμοια με το παράδειγμα producer - consumer των διαφανειών
+τα sockets τα έχω υλοποιήσει παρόμοια με τα pipes της 2ης εργασίας
+
+ο travelMonitorClient είναι ο clients και τα monitors οι servers 
